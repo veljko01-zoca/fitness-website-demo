@@ -7,12 +7,12 @@ This is a fully responsive fitness website designed to provide users with a seam
 
 Responsive Design: Fully optimized for mobile, tablet, and desktop views.
 
-Interactive Components: [Npr. Dynamic workout timers / Calorie calculators / Smooth scrolling].
+Smooth scrolling
 
-Modern UI: Sleek, dark-themed interface (ili "clean aesthetic") designed for fitness enthusiasts.
+Modern UI: Sleek, dark-themed interface  designed for fitness enthusiasts.
 
 ## Tech Stack
 
 Frontend: HTML5, CSS3 (Flexbox/Grid), JavaScript.
 
-Tools: [Npr. Git, VS Code, Google Fonts].
+Tools: [ Git, VS Code, Google Fonts].
